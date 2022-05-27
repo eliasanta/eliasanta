@@ -1,5 +1,4 @@
-### Hi there 👋
-Hi 👋 I'm Elia Santagiuliana
+### Hi there 👋 I'm Elia Santagiuliana
 ===================================
 
 FronteEnd Developer
