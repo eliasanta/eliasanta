@@ -1,8 +1,8 @@
-Hi 👋 My name is Elia Santagiuliana
-===================================
+Hi there 👋 I'm Elia Santagiuliana
+
 
 FronteEnd Developer
--------------------
+
 
 * 🌍  I'm based in Cornedo Vicentino
 * ✉️  You can contact me at [eliasanta93@gmail.com](mailto:eliasanta93@gmail.com)
