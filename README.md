@@ -6,7 +6,7 @@ Junior FronteEnd Developer
 
 * 🌍  I'm based in Cornedo Vicentino
 * ✉️  You can contact me at [eliasanta93@gmail.com](mailto:eliasanta93@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Node.js
 
 ### Skills
 
