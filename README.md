@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working for **EKR**
 
-- 🌱 I’m currently studing **Java**
+- 🧠  I'm learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://eliasantagiuliana.netlify.app/](https://eliasantagiuliana.netlify.app/)
 
@@ -30,6 +30,8 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
