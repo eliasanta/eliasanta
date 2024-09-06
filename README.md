@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working for **EKR**
 
-- 🌱 I’m currently improving **React.js, PHP**
+- 🌱 I’m currently studing **Java**
 
 - 👨‍💻 All of my projects are available at [https://eliasantagiuliana.netlify.app/](https://eliasantagiuliana.netlify.app/)
 
