@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working for **EKR**
 
-- 🧠  I'm learning **Java**
-
 - 👨‍💻 All of my projects are available at [https://eliasantagiuliana.netlify.app/](https://eliasantagiuliana.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
